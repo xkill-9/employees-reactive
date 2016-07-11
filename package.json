@@ -7,8 +7,8 @@
   "dependencies": {
     "meteor-node-stubs": "~0.2.0",
     "react": "^15.0.0",
-    "react-dom": "^15.0.0",
-    "react-addons-pure-render-mixin": "^15.0.0"
+    "react-addons-pure-render-mixin": "^15.2.1",
+    "react-dom": "^15.0.0"
   },
   "version": "1.0.0",
   "main": "src/server.js",
@@ -39,6 +39,8 @@
     "style-loader": "^0.13.0",
     "url-loader": "^0.5.7",
     "webpack": "^1.13.0",
-    "webpack-hot-middleware": "^2.10.0"
+    "webpack-hot-middleware": "^2.10.0",
+    "sass-loader": "^3.1.2",
+    "node-sass": "^3.4.2"
   }
 }

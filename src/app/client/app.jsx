@@ -1,10 +1,11 @@
 import React, { Component } from 'react';
+import EmployeeList from './components/employee-list/employee-list';
 
 export default class App extends Component {
   render() {
     return (
       <div>
-        Hello there!!
+        <EmployeeList />
       </div>
     )
   }
