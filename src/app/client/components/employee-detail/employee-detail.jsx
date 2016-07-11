@@ -1,4 +1,5 @@
 import React from 'react';
+import './employee-detail.import.scss';
 
 const EmployeeDetail = ({employee}) => {
   const { name, email, phone, avatar } = employee;

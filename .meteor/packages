@@ -20,3 +20,5 @@ insecure                # Allow all DB writes from clients (for prototyping)
 webpack:webpack
 webpack:react
 react-meteor-data
+twbs:bootstrap@3.3.6
+webpack:sass
